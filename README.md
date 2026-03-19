@@ -26,5 +26,5 @@ This project analyzes a real-world e-commerce dataset to extract business insigh
 - Improve delivery efficiency
 - Optimize payment strategies
 
-## 📁 Output
+##  Output
 Cleaned dataset and analysis notebook included.
